@@ -6,15 +6,16 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jyothikaogeti&label=Profile%20views&color=0e75b6&style=flat" alt="jyothikaogeti" /> </p>
 <p><i> I'm Jyothika, a Computer Science grad and Data Science Enthusiast. I love exploring data, building models, and constantly learning about new technologies!</i></p>
 
-- 🌱 I’m currently learning **MLOps, Deep Learning, NLP, Artificial Intelligence**
+- 🌱 I’m currently learning **<code>MLOps</code>, <code>NLP</code>, <code>Artificial Intelligence</code>**
  
-- 💬 Ask me about **Python, Machine Learning**
+- 💬 Ask me about **<code>Python</code>, <code>Machine Learning</code>**
   
 - 📫 How to reach me **<code><a href="https://www.linkedin.com/in/jyothikaogeti/">LinkedIn</a></code>** **<code>[Gmail](mailto:ogetijyothika2002@gmail.com)</code>**
 
 - 👨‍💻 Check out my projects **<code>[here!](https://github.com/jyothikaogeti?tab=repositories)</code>**
 
-- ⚡ Fun fact **<code> I analyze my dreams—data never sleeps! 💭</code>**
+- ⚡ Fun fact **<code>
+I analyze my dreams—data never sleeps! 💭</code>**
   
 <p align="left">
 </p>
