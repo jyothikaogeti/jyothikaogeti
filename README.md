@@ -14,7 +14,7 @@
 
 - 👨‍💻 Check out my projects **<code>[here!](https://github.com/jyothikaogeti?tab=repositories)</code>**
 
-- ⚡ Fun fact **<code>
+- ⚡ Fun fact  **<code>
 I analyze my dreams—data never sleeps! 💭</code>**
   
 <p align="left">
