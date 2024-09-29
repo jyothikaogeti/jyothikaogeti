@@ -4,6 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jyothikaogeti&label=Profile%20views&color=0e75b6&style=flat" alt="jyothikaogeti" /> </p>
+<p><i> I'm Jyothika, a Computer Science grad and Data Science Enthusiast. I love exploring data, building models, and constantly learning about new technologies!</i></p>
 
 - 🌱 I’m currently learning **MLOps, Deep Learning, NLP, Artificial Intelligence**
  
