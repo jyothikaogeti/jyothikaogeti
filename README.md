@@ -5,9 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jyothikaogeti&label=Profile%20views&color=0e75b6&style=flat" alt="jyothikaogeti" /> </p>
 
-- 🌱 I’m currently learning **Deep Learning, NLP, Artificial Intelligence**
+- 🌱 I’m currently learning **MLOps, Deep Learning, NLP, Artificial Intelligence**
+- 
 - 💬 Ask me about **Python, Machine Learning**
-- 📫 How to reach me **<code><a href="https://www.linkedin.com/in/jyothikaogeti/">LinkedIn</a></code>** **<code>[Gmail](mailto:ogetijyothika2002@gmail.com)</code>** 
+- 
+- 📫 How to reach me **<code><a href="https://www.linkedin.com/in/jyothikaogeti/">LinkedIn</a></code>** **<code>[Gmail](mailto:ogetijyothika2002@gmail.com)</code>**
+
+-  👨‍💻 Check out my projects **<code>[here!](https://github.com/jyothikaogeti?tab=repositories)</code>**
   
 <p align="left">
 </p>
