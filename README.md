@@ -12,7 +12,9 @@
   
 - 📫 How to reach me **<code><a href="https://www.linkedin.com/in/jyothikaogeti/">LinkedIn</a></code>** **<code>[Gmail](mailto:ogetijyothika2002@gmail.com)</code>**
 
--  👨‍💻 Check out my projects **<code>[here!](https://github.com/jyothikaogeti?tab=repositories)</code>**
+- 👨‍💻 Check out my projects **<code>[here!](https://github.com/jyothikaogeti?tab=repositories)</code>**
+
+- ⚡ Fun fact **<code> I analyze my dreams—data never sleeps! 💭</code>**
   
 <p align="left">
 </p>
